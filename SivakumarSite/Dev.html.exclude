@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Siva's Dev</title>
+    <meta charset="utf-8" />
+
+    <link rel="stylesheet" href="CSS/1sthtml.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="body">
+    <header class="mainHeader">
+        <nav>
+            <ul>
+                <li><a href="HomePage.aspx">Home</a></li>
+                <li><a href="Portfolio.aspx">Portfolio</a></li>
+                <li class="active"><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="mainContent">
+        <div class="content">
+            <article class="topcontent">
+                <header>
+                    <h2><a href="#" rel="bookmark" title="About the Author">About the Author</a></h2>
+                </header>
+                <content>
+                    <p>
+                        Siva Kumar Injarapu is a .Net Developer. He is proficient in the below technologies.
+                        C#.NET, ASP.NET, Web Services
+                    </p>
+
+                    <p>
+                        He has the below certifications </br>
+                        Microsoft Certified Solutions Developer (MCSD)</br>
+                        Microsoft Certified Technology Specialist (MCTS)</br>
+                        Microsoft Certified Professional (MCP)</br>
+                    </p>
+                </content>
+            </article>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,89 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Siva Kumar Injarapu</title>
+    <meta charset="utf-8" />
+
+    <link rel="stylesheet" href="CSS/1sthtml.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="body">
+
+    <header class="mainHeader">
+        <nav>
+            <ul>
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="Portfolio.html">Portfolio</a></li>
+                <li><a href="Dev.html">Blog</a></li>
+                <li><a href="Dev.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="mainContent">
+        <div class="content">
+            <article class="topcontent">
+                <header>
+                    <h2><a href="#" rel="bookmark" title="Mind">Mind Speaks</a></h2>
+                </header>
+
+                <footer>
+                    <p class="post-info">Posted by Siva Kumar Injarapu - 02/26/2014</p>
+                </footer>
+
+                <content>
+                    <p>The idea of creating this website is for self learning and exploring the latest trends in web technology </p>
+                    <p>Below are the technologies I want to implement in my site.
+                        HTML5
+                        CSS3
+                        JQuery & JSON
+                    </p>
+                    <p>
+                        My idea is to design a responsive website that renders seamlesly in both the mobile and desktop browsers.   
+                    </p>
+                </content>
+
+            </article>
+            <article class="bottomcontent">
+                <header>
+                    <h2><a href="#" rel="bookmark" title="Permalink to this POST TITLE">Here you go..</a></h2>
+                </header>
+                <footer>
+                    <p class="post-info">Posted by Siva Kumar Injarapu -02/23/2014</p>
+                </footer>
+
+                <content>
+                    <p>I had been thinking about this and finally here you go...As a WEB Developer I need to have atleast one portfolio </p>
+                    <p>Today's date is 02/23/2014 and time is 1:39 AM</p>   
+                </content>
+
+            </article>
+        </div>
+
+        <aside class="top-sidebar">
+            <article>
+                <h2>Weather</h2>
+                <p>Comming soon... weather based on zipcode</p>
+            </article>
+        </aside>
+
+        <aside class="middle-sidebar">
+            <article>
+                <h2>Currency Converter</h2>
+                <p>I still need to research on this.</p>
+            </article>
+        </aside>
+        <aside class="bottom-sidebar">
+            <article>
+                <h2>Whats New</h2>
+                <p>Will keep updating this site whenever I get time.</p>
+            </article>
+        </aside>
+    </div>
+
+    <footer class="mainFooter">
+        <p>Copyright &copy; 2014 &nbsp;&nbsp;<a href="">sivakumarinjarapu</a> &nbsp;&nbsp;Privacy Policy</p>
+    </footer>
+</body>
+</html>
